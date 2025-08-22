@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nucleuscloud/neosync,85,69
+/nucleuscloud/neosync/issues,5,2
+/nucleuscloud/neosync/pull/1079/commits,4,4
+/nucleuscloud/neosync/blob/main/backend/cmd/mgmt/main.go,3,2
+/nucleuscloud/neosync/blob/main/compose.yml,3,2
+/nucleuscloud/neosync/tree/main/backend,3,2
+/nucleuscloud/neosync/blob/main/.github/workflows/artifact-release.yml,3,1
+/nucleuscloud/neosync/tree/main/compose,3,1
+/nucleuscloud/neosync/releases,2,2
+/nucleuscloud/neosync/tree/main/docker,2,2
